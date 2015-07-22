@@ -12,5 +12,5 @@
     // 添加
     [self.view addSubview:myView];
  ```
-* Can we hide this?
+* Tell you what ?
 ![fscalendar---headeralpha]()
