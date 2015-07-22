@@ -13,4 +13,4 @@
     [self.view addSubview:myView];
  ```
 * Can we hide this?
-![fscalendar---headeralpha](https://cloud.githubusercontent.com/assets/5186464/8450978/217855ca-2012-11e5-8b97-a9b45ece4e71.png)
+![fscalendar---headeralpha]()
