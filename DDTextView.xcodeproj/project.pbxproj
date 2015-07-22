@@ -15,7 +15,7 @@
 		A159C5601B5F8FE00075B1AD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A159C55E1B5F8FE00075B1AD /* LaunchScreen.xib */; };
 		A159C56C1B5F8FE10075B1AD /* DDTextViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A159C56B1B5F8FE10075B1AD /* DDTextViewTests.m */; };
 		A159C5771B5F90000075B1AD /* EHTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = A159C5761B5F90000075B1AD /* EHTextView.m */; };
-		A159C57B1B5FA1980075B1AD /* DDTextView.png in Resources */ = {isa = PBXBuildFile; fileRef = A159C57A1B5FA1980075B1AD /* DDTextView.png */; };
+		A159C57D1B5FA2510075B1AD /* DDTextView.png in Resources */ = {isa = PBXBuildFile; fileRef = A159C57C1B5FA2510075B1AD /* DDTextView.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,7 +44,7 @@
 		A159C56B1B5F8FE10075B1AD /* DDTextViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DDTextViewTests.m; sourceTree = "<group>"; };
 		A159C5751B5F90000075B1AD /* EHTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EHTextView.h; sourceTree = "<group>"; };
 		A159C5761B5F90000075B1AD /* EHTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EHTextView.m; sourceTree = "<group>"; };
-		A159C57A1B5FA1980075B1AD /* DDTextView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DDTextView.png; sourceTree = "<group>"; };
+		A159C57C1B5FA2510075B1AD /* DDTextView.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DDTextView.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,10 +92,10 @@
 				A159C5571B5F8FE00075B1AD /* ViewController.m */,
 				A159C5751B5F90000075B1AD /* EHTextView.h */,
 				A159C5761B5F90000075B1AD /* EHTextView.m */,
+				A159C57C1B5FA2510075B1AD /* DDTextView.png */,
 				A159C5591B5F8FE00075B1AD /* Main.storyboard */,
 				A159C55C1B5F8FE00075B1AD /* Images.xcassets */,
 				A159C55E1B5F8FE00075B1AD /* LaunchScreen.xib */,
-				A159C57A1B5FA1980075B1AD /* DDTextView.png */,
 				A159C54F1B5F8FE00075B1AD /* Supporting Files */,
 			);
 			path = DDTextView;
@@ -208,7 +208,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A159C55B1B5F8FE00075B1AD /* Main.storyboard in Resources */,
-				A159C57B1B5FA1980075B1AD /* DDTextView.png in Resources */,
+				A159C57D1B5FA2510075B1AD /* DDTextView.png in Resources */,
 				A159C5601B5F8FE00075B1AD /* LaunchScreen.xib in Resources */,
 				A159C55D1B5F8FE00075B1AD /* Images.xcassets in Resources */,
 			);
