@@ -12,5 +12,6 @@
     // 添加
     [self.view addSubview:myView];
  ```
-* Tell you what ?
+* [ETell you what ?](#Examples)
+
 ![fscalendar---headeralpha](https://github.com/Mill0/DDTextView/blob/master/DDTextView/Images.xcassets/DDTextView.imageset/DDTextView%402x-1.png)
