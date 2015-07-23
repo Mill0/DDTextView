@@ -1,7 +1,7 @@
 # DDTextView
 - DDTextView对UITextView的一个修改, 使其看起来像书信的一种格式, 使用简单方便.
 
-* [Examples 【示例】](#Examples)
+## [Examples 【示例】](#Examples)
 * 引入头文件
 ```objc
 #import "EHTextView.h"
@@ -17,6 +17,6 @@
     // 添加
     [self.view addSubview:myView];
  ```
-* [Tell you what ?](#Examples)
+### [Tell you what ?](#Examples)
 
 ![fscalendar---headeralpha](https://github.com/Mill0/DDTextView/blob/master/DDTextView/Images.xcassets/DDTextView.imageset/DDTextView%402x-1.png)
